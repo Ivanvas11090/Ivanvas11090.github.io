@@ -1,0 +1,43 @@
+User-Agent: *
+Disallow: /bitrix/
+Disallow: /cart/
+Disallow: /search/
+Disallow: /*filter/
+Disallow: /cart/
+Disallow: /:*
+Disallow: /*info/$
+Disallow: /upload/
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/panel/
+
+User-Agent: Googlebot
+Disallow: /bitrix/
+Disallow: /cart/
+Disallow: /search/
+Disallow: /*filter/
+Disallow: /cart/
+Disallow: /:*
+Disallow: /*info/$
+Disallow: /upload/
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/panel/
+
+User-Agent: Yandex
+Disallow: /bitrix/
+Disallow: /cart/
+Disallow: /search/
+Disallow: /*filter/
+Disallow: /cart/
+Disallow: /:*
+Disallow: /*info/$
+Disallow: /upload/
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/panel/
+
+Sitemap:Ivanvas11090.github.io
